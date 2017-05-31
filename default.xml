@@ -486,7 +486,6 @@
   <project path="system/netd" name="LineageOS/android_system_netd" groups="pdk" />
   <project path="system/nvram" name="platform/system/nvram" remote="aosp" />
   <project path="system/security" name="LineageOS/android_system_security" groups="pdk" />
-  <project path="system/sepolicy" name="LineageOS/android_system_sepolicy" groups="pdk" />
   <project path="system/tools/aidl" name="LineageOS/android_system_tools_aidl" groups="pdk" />
   <project path="system/tpm" name="platform/system/tpm" remote="aosp" />
   <project path="system/update_engine" name="platform/system/update_engine" groups="pdk" remote="aosp" />
@@ -514,5 +513,6 @@
   <project path="frameworks/base" name="mtkfork/android_frameworks_base" revision="cm-14.1" />
   <project path="system/core" name="mtkfork/android_system_core" revision="cm-14.1" />
   <project path="frameworks/native" name="mtkfork/android_frameworks_native" revision="cm-14.1" />
+  <project path="system/sepolicy" name="mtkfork/android_system_sepolicy" revision="cm-14.1" />
 
 </manifest>
