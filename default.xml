@@ -509,7 +509,10 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" />
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" groups="pdk" remote="aosp" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" remote="aosp" />
-
+ 
   <include name="snippets/cm.xml" />
+  
+  <project path="device/gionee/m2" name="mtkfork/android_device_gionee_m2" revision="cm-14.1"/>
+  <project path="vendor/gionee/m2" name="diparthshah/android_vendor_gionee_m2" revision="cm-13.0" />
 
 </manifest>
