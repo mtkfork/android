@@ -509,7 +509,7 @@
   <include name="snippets/cm.xml" />
   
   <project path="device/gionee/m2" name="mtkfork/android_device_gionee_m2" revision="cm-14.1"/>
-  <project path="vendor/gionee/m2" name="diparthshah/android_vendor_gionee_m2" revision="cm-13.0" />
+  <project path="vendor/gionee/m2" name="mtkfork/android_vendor_gionee_m2" revision="cm-13.0" />
   <project path="frameworks/base" name="mtkfork/android_frameworks_base" revision="cm-14.1" />
   <project path="system/core" name="mtkfork/android_system_core" revision="cm-14.1" />
   <project path="frameworks/native" name="mtkfork/android_frameworks_native" revision="cm-14.1" />
