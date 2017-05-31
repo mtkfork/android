@@ -314,7 +314,6 @@
   <project path="frameworks/minikin" name="platform/frameworks/minikin" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/ml" name="platform/frameworks/ml" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/multidex" name="platform/frameworks/multidex" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="frameworks/native" name="LineageOS/android_frameworks_native" groups="pdk" />
   <project path="frameworks/opt/bitmap" name="platform/frameworks/opt/bitmap" groups="pdk-fs" remote="aosp" />
   <project path="frameworks/opt/bluetooth" name="platform/frameworks/opt/bluetooth" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
@@ -514,5 +513,6 @@
   <project path="vendor/gionee/m2" name="diparthshah/android_vendor_gionee_m2" revision="cm-13.0" />
   <project path="frameworks/base" name="mtkfork/android_frameworks_base" revision="cm-14.1" />
   <project path="system/core" name="mtkfork/android_system_core" revision="cm-14.1" />
+  <project path="frameworks/native" name="mtkfork/android_frameworks_native" revision="cm-14.1" />
 
 </manifest>
