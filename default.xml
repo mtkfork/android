@@ -307,7 +307,6 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk" remote="aosp" />
   <project path="frameworks/av" name="LineageOS/android_frameworks_av" groups="pdk" />
-  <project path="frameworks/base" name="LineageOS/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" remote="aosp" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" remote="aosp" />
@@ -514,5 +513,6 @@
   
   <project path="device/gionee/m2" name="mtkfork/android_device_gionee_m2" revision="cm-14.1"/>
   <project path="vendor/gionee/m2" name="diparthshah/android_vendor_gionee_m2" revision="cm-13.0" />
+  <project path="frameworks/base" name="mtkfork/android_frameworks_base" revision="cm-14.1" />
 
 </manifest>
