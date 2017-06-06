@@ -512,7 +512,7 @@
   <project path="vendor/gionee/m2" name="mtkfork/android_vendor_gionee_m2" revision="cm-13.0" />
   <project path="frameworks/base" name="mtkfork/android_frameworks_base" revision="cm-14.1" />
   <project path="system/core" name="mtkfork/android_system_core" revision="cm-14.1" />
-  <project path="frameworks/native" name="mtkfork/android_frameworks_native" revision="cm-14.1" />
-  <project path="system/sepolicy" name="mtkfork/android_system_sepolicy" revision="cm-14.1" />
+  <project path="frameworks/native" name="LineageOS/android_frameworks_native" revision="cm-14.1" />
+  <project path="system/sepolicy" name="LineageOS/android_system_sepolicy" revision="cm-14.1" />
 
 </manifest>
